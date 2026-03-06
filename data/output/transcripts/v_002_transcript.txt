@@ -1,0 +1,40 @@
+Video: v_002.mp4
+Transcription Method: whisper
+Language: en
+==================================================
+
+TRANSCRIPT:
+ I'm Samantha. I'm Amanda. I used to meet you Amanda. You want me to start or would you like to start? It doesn't matter. Where are you mad?
+
+==================================================
+SEGMENTS:
+
+Segment 1:
+  Start: 0.00s
+  End: 1.00s
+  Text:  I'm Samantha.
+
+Segment 2:
+  Start: 1.00s
+  End: 2.00s
+  Text:  I'm Amanda.
+
+Segment 3:
+  Start: 2.00s
+  End: 5.16s
+  Text:  I used to meet you Amanda.
+
+Segment 4:
+  Start: 5.16s
+  End: 6.56s
+  Text:  You want me to start or would you like to start?
+
+Segment 5:
+  Start: 6.56s
+  End: 7.56s
+  Text:  It doesn't matter.
+
+Segment 6:
+  Start: 7.56s
+  End: 8.16s
+  Text:  Where are you mad?
